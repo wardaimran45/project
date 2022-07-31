@@ -1,0 +1,25 @@
+* {
+	font-family: Arial, Helvetica, sans-serif;
+	box-sizing: border-box;
+}
+.divs{
+    width: 1365px;
+background-color: rgb(229, 223, 231);
+height: 800px;
+}
+.headmo{
+    color: black;
+    padding: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.btnbtn{
+    color: white; 
+    
+    border-radius: 5px;
+    width: 300px;
+    padding: 10px;
+    background-color: black;
+    border: 1px solid black;
+    
+
+}

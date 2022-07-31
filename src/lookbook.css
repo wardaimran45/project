@@ -1,0 +1,23 @@
+.lookbook{
+    background-color: antiquewhite;
+    position: relative;
+}
+#carousel{
+    position: absolute;
+ width: 1200px; 
+    background-color: antiquewhite;
+    align-items: center;
+    margin-left: 10px;
+}
+.unstich{
+    color: gray;
+    text-align: center;
+    padding: 10px;
+}
+.lookhead{
+    margin-left: 20px;
+    color: gray;
+}
+.logo23{
+    margin-left: 25%;
+}

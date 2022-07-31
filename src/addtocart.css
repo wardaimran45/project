@@ -1,0 +1,108 @@
+.pretpic{
+    width: 1365px;
+}
+body {
+    font-family: 'Helvetica';
+  }
+ 
+  .cart{
+      text-decoration: none;
+      color: black;
+      position: absolute;
+     left: 1300px;
+     top: 5px;
+      
+  }
+  .headdiv{
+      background-color: bisque;
+     position: relative;
+      height: 50px;
+      width: 1365px;
+   
+      
+      
+  }
+  .shopcart{
+      position: absolute;
+      left: 10px;
+      top: 5px;
+  }
+  .prodiv{
+      background-color: bisque;
+      height: 50px;
+      position: relative;
+      color: gray;
+      width: 1365px;
+  }
+  .prod{
+position: absolute;
+top: 12px;
+left: 50%;
+
+  }
+  .barish{
+      color: gray;
+      font-size: small;
+      margin-left: 30px;
+      
+  }
+  .barish2{
+    color: gray;
+    font-size: small;
+    margin-left: 420px;
+    
+}
+#cartback{
+    background-color: gainsboro;
+    height: 900px;
+}
+.carddisplay{
+   
+    padding: 10px; 
+    width: 1365px;
+       position: relative;
+height: 3000px;
+ display: flex;
+}
+.mapclass{
+    /* height: 500px;
+    width: 300px; */
+    position: absolute;
+    gap: 80px;
+    margin-left: 80px;
+   margin-top: 30px;
+   display: flex;
+   flex-wrap: wrap;
+  
+  
+}
+.cartbtn{
+    background-color: black;
+    width: 200px;
+    color: white;
+    border-radius: 5px;
+    margin-left: 60px;
+}
+.add{
+    background-color: red;
+    width: 30px;
+    height: 30px;
+margin: auto;
+    color: black;
+}
+.remove{
+    background-color: skyblue;
+    width: 30px;
+    height: 30px;
+    color: black;
+}
+.addtocart{
+    text-align: center;
+    padding: 10px;
+}
+.checkout{
+    background-color: black;
+    color: white;
+    height: 30px;
+    border-radius: 5px;
+}

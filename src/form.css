@@ -1,0 +1,104 @@
+#img1{
+    margin-top: 250px;
+    margin-left: 180px;
+}
+#reset{
+    margin-left: 30px;
+    margin-top: 19px;
+    width: 80px;
+
+}
+.error{
+    position: absolute;
+    color: red;
+    font-size: .6rem;
+}
+.text{
+    width: 550px;
+    background-color: #efebe7;
+    position: absolute;
+    top: 2073px;
+left: 50%;
+
+border-color: #efebe7;
+border-radius: 5px;
+
+}
+.formsign{
+    color: #9094a6;
+    font-size: small;
+    position: absolute;
+    left: 50px;
+    top: 210px;
+}
+.linebreak{
+    border: 0.01px solid #9094a6;
+    width: 1200px;
+    position: absolute;
+    left: 50px;
+    top: 180px;
+    
+}
+.formss{
+    
+    color: #6b7488;
+    width: 400px;
+    position: absolute;
+    left: 50px;
+    top: 250px;
+}
+.BOX{
+    width: 1365px;
+}
+.create{
+    position: absolute;
+    left: 50px;
+    top: 120px;
+}
+#reset1{
+    margin-left: 6px;
+    margin-top: 19px;
+    width: 150px;
+    height: 50px;
+    background-color: #ff5a60 ;
+    border-radius: 10px;
+    font-weight: bold;
+    
+        
+    }
+    .account{
+        position: absolute;
+        left: 30px;
+        top: 100px;
+    }
+    .manual{
+        position: absolute;
+        left: 30px;
+        top: 150px;
+        color: #b4aeaf;
+    }
+    .form2{
+      
+    color: #6b7488;
+    width: 400px;
+    position: absolute;
+    left: 30px;
+    top: 200px;
+       
+    }
+    .xy{
+        background-color: #eeeeee;
+        border: #eeeeee;
+        border-radius: 10px;
+        height: 50px;
+        width: 400px;
+       
+    }
+
+    .registernow{
+        color:#ff5a60 ;
+        font-size: smaller;
+        position: absolute;
+    left: 40px;
+    top: 460px;
+    }
